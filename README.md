@@ -16,12 +16,11 @@ A list of Loggers / Trackers
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger))
 
 
-## Another Section
+## Books
 
-### Subsection
+### Anatomy
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Strength Training Anatomy](https://www.goodreads.com/en/book/show/45838#)
 
 
 ## Contributing
